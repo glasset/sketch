@@ -27,16 +27,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 10,
+        "length": 2,
         "location": 0
       }
     ],
-    "string": "DIFF 2 DEV"
+    "string": "42"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "E78D6824-8B0F-47A9-AB89-E1ADBDE560FC",
+  "do_objectID": "261601EB-E40B-4C81-8901-1979378078D4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 18,
-    "width": 91,
-    "x": 257,
-    "y": 177
+    "width": 149,
+    "x": 228,
+    "y": 163
   },
-  "glyphBounds": "{{1, 3}, {90, 12}}",
+  "glyphBounds": "{{0, 3}, {20, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,9 +64,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "DIFF 2 DEV",
+  "name": "42",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -103,5 +103,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }
