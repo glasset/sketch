@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.4061437074829932,
-            "green": 0.365203223080682,
-            "red": 0.3242627386783707
+            "blue": 0.6713169642857143,
+            "green": 0.4485511944923569,
+            "red": 0.2257854246989989
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -27,11 +27,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Type something"
+    "string": "DIFF 2 DEV"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 19,
-    "width": 135,
+    "height": 18,
+    "width": 91,
     "x": 257,
     "y": 177
   },
-  "glyphBounds": "{{0, 0}, {0, 0}}",
+  "glyphBounds": "{{1, 3}, {90, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Type something",
+  "name": "DIFF 2 DEV",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -81,9 +81,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4061437074829932,
-          "green": 0.365203223080682,
-          "red": 0.3242627386783707
+          "blue": 0.6713169642857143,
+          "green": 0.4485511944923569,
+          "red": 0.2257854246989989
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
