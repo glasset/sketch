@@ -32,7 +32,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 10,
+        "changeIdentifier": 551,
         "clippingMaskMode": 0,
         "do_objectID": "8F53A4D3-186E-49D5-B72F-035D66D1B86D",
         "exportOptions": {
@@ -162,9 +162,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.2408880331930258,
-                    "green": 0.2408880331930258,
-                    "red": 0.8283110119047619
+                    "blue": 0.0512170722818306,
+                    "green": 0.6682344812925171,
+                    "red": 0.6228593899029743
                   },
                   "fillType": 0,
                   "isEnabled": true,
@@ -179,9 +179,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.6114450052481931,
-                    "green": 0.6114450052481931,
-                    "red": 0.7751913265306123
+                    "blue": 0.7692920918367347,
+                    "green": 0.450625856024543,
+                    "red": 0.2761759823854377
                   },
                   "fillType": 0,
                   "isEnabled": true,
@@ -207,9 +207,9 @@
                     "MSAttributedStringColorAttribute": {
                       "_class": "color",
                       "alpha": 1,
-                      "blue": 0.1610065901360544,
-                      "green": 0.08720078550564317,
-                      "red": 0.01339498087523164
+                      "blue": 0.9462425595238095,
+                      "green": 0.9462425595238095,
+                      "red": 0.9462425595238095
                     },
                     "MSAttributedStringFontAttribute": {
                       "_class": "fontDescriptor",
@@ -279,9 +279,9 @@
                   "MSAttributedStringColorAttribute": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.1610065901360544,
-                    "green": 0.08720078550564317,
-                    "red": 0.01339498087523164
+                    "blue": 0.9462425595238095,
+                    "green": 0.9462425595238095,
+                    "red": 0.9462425595238095
                   },
                   "MSAttributedStringFontAttribute": {
                     "_class": "fontDescriptor",
@@ -304,8 +304,8 @@
             "textBehaviour": 0
           }
         ],
-        "name": "Rectangle",
-        "nameIsFixed": false,
+        "name": "Rectangle 1",
+        "nameIsFixed": true,
         "resizesContent": false,
         "resizingConstraint": 63,
         "resizingType": 0,
@@ -337,7 +337,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 10,
+        "changeIdentifier": 551,
         "clippingMaskMode": 0,
         "do_objectID": "8F53A4D3-186E-49D5-B72F-035D66D1B86D",
         "exportOptions": {
@@ -467,9 +467,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.2408880331930258,
-                    "green": 0.2408880331930258,
-                    "red": 0.8283110119047619
+                    "blue": 0.0512170722818306,
+                    "green": 0.6682344812925171,
+                    "red": 0.6228593899029743
                   },
                   "fillType": 0,
                   "isEnabled": true,
@@ -484,9 +484,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.6114450052481931,
-                    "green": 0.6114450052481931,
-                    "red": 0.7751913265306123
+                    "blue": 0.7692920918367347,
+                    "green": 0.450625856024543,
+                    "red": 0.2761759823854377
                   },
                   "fillType": 0,
                   "isEnabled": true,
@@ -512,9 +512,9 @@
                     "MSAttributedStringColorAttribute": {
                       "_class": "color",
                       "alpha": 1,
-                      "blue": 0.1610065901360544,
-                      "green": 0.08720078550564317,
-                      "red": 0.01339498087523164
+                      "blue": 0.9462425595238095,
+                      "green": 0.9462425595238095,
+                      "red": 0.9462425595238095
                     },
                     "MSAttributedStringFontAttribute": {
                       "_class": "fontDescriptor",
@@ -584,9 +584,9 @@
                   "MSAttributedStringColorAttribute": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.1610065901360544,
-                    "green": 0.08720078550564317,
-                    "red": 0.01339498087523164
+                    "blue": 0.9462425595238095,
+                    "green": 0.9462425595238095,
+                    "red": 0.9462425595238095
                   },
                   "MSAttributedStringFontAttribute": {
                     "_class": "fontDescriptor",
@@ -609,8 +609,8 @@
             "textBehaviour": 0
           }
         ],
-        "name": "Rectangle",
-        "nameIsFixed": false,
+        "name": "Rectangle 1",
+        "nameIsFixed": true,
         "resizesContent": false,
         "resizingConstraint": 63,
         "resizingType": 0,

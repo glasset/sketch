@@ -58,6 +58,10 @@
     {
       "class": "symbolInstance",
       "id": "CF4C958C-BE71-463A-815F-F1770B9E8F54"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "50143CAD-9479-4740-8089-2B4F565F8528"
     }
   ],
   "name": "foo",

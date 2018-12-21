@@ -1,8 +1,8 @@
 {
-  "_class": "page",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C2DAC7E2-58C2-4E66-A942-32A6FAE05C86",
+  "do_objectID": "50143CAD-9479-4740-8089-2B4F565F8528",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,41 +15,27 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 107,
+    "width": 203,
+    "x": 65,
+    "y": 32
   },
-  "hasClickThrough": true,
   "hasClippingMask": false,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -225,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "symbolMaster",
-      "id": "8F53A4D3-186E-49D5-B72F-035D66D1B86D"
-    },
-    {
-      "class": "symbolMaster",
-      "id": "81522A27-F404-4E8D-BA1C-8223C9F05FCE"
-    }
-  ],
-  "name": "Symbols",
+  "name": "sym2",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -58,10 +44,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -265,
-    "guides": [
-    ]
-  }
+  "symbolID": "3E7B7E96-BA72-40BD-8CA3-3B44116DD5DC",
+  "verticalSpacing": 0
 }

@@ -8,9 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 551,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "8F53A4D3-186E-49D5-B72F-035D66D1B86D",
+  "do_objectID": "81522A27-F404-4E8D-BA1C-8223C9F05FCE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -23,13 +23,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 150,
-    "width": 201,
-    "x": 100,
-    "y": 0
+    "height": 107,
+    "width": 203,
+    "x": 401,
+    "y": -230
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -50,15 +50,15 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "02999436-F6DC-4256-B2D7-8FE8E72C832D"
+      "id": "5F89E391-361B-49A4-93BF-4DB86443D890"
     },
     {
-      "class": "text",
-      "id": "A205EDB7-58C7-4542-A61E-618EFB82EBED"
+      "class": "oval",
+      "id": "7CDCD026-75D2-4F6D-AE27-AC8EB4EE3780"
     }
   ],
-  "name": "Rectangle 1",
-  "nameIsFixed": true,
+  "name": "sym2",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,7 +71,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "0A2318FA-143C-42EE-A6C9-2CFFEB659E09",
+  "symbolID": "B097C5C1-58B6-4A10-BA5E-1390A6039B3B",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
