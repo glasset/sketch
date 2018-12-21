@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,20 +8,12 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "DC1D8B4D-F798-4056-ADBA-54DFE303FEFB",
+  "do_objectID": "575F4B13-0337-4D5D-992A-3E8A4CD064B5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "jpg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -31,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1167,
-    "width": 1010,
-    "x": 0,
-    "y": -243
+    "height": 554,
+    "width": 598,
+    "x": 100,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -46,6 +38,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -53,34 +46,22 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "03485F16-3588-4744-91F9-71B1BFEC35F3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B0995798-87DB-4102-AA19-148708217CD3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A2723D18-1FAC-4A1F-8970-A28F6C55A221"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "590D4FB0-185A-4C7D-877C-3FC467F38BB0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2EBC264A-F39E-4D73-9428-76D6CF8B6BC5"
+      "class": "text",
+      "id": "261601EB-E40B-4C81-8901-1979378078D4"
     },
     {
       "class": "text",
-      "id": "4A36DF04-12EE-4E9F-B071-6E66795B7C8A"
+      "id": "D0AD5023-C006-421F-A7E1-E1617CBC6AA2"
+    },
+    {
+      "class": "rectangle",
+      "id": "F7144751-EDB9-437F-9FA5-870B8997AD8B"
     }
   ],
-  "name": "Artboard",
+  "name": "42",
   "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -94,6 +75,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "E166EDBF-6008-4F44-B070-CF5F3638F606",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
