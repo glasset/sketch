@@ -1,8 +1,16 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "C2DAC7E2-58C2-4E66-A942-32A6FAE05C86",
+  "do_objectID": "81522A27-F404-4E8D-BA1C-8223C9F05FCE",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,42 +23,47 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
-    "y": 0
+    "height": 107,
+    "width": 203,
+    "x": 401,
+    "y": -230
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -225,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "symbolMaster",
-      "id": "8F53A4D3-186E-49D5-B72F-035D66D1B86D"
+      "class": "rectangle",
+      "id": "5F89E391-361B-49A4-93BF-4DB86443D890"
     },
     {
-      "class": "symbolMaster",
-      "id": "81522A27-F404-4E8D-BA1C-8223C9F05FCE"
+      "class": "oval",
+      "id": "7CDCD026-75D2-4F6D-AE27-AC8EB4EE3780"
     }
   ],
-  "name": "Symbols",
+  "name": "sym2",
   "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -58,9 +71,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "B097C5C1-58B6-4A10-BA5E-1390A6039B3B",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
