@@ -9,19 +9,10 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DC1D8B4D-F798-4056-ADBA-54DFE303FEFB",
+  "do_objectID": "936F257E-1430-4982-B869-2AAEBC2F54FD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
-      {
-        "_class": "exportFormat",
-        "absoluteSize": 0,
-        "fileFormat": "jpg",
-        "name": "",
-        "namingScheme": 0,
-        "scale": 1,
-        "visibleScaleType": 0
-      }
     ],
     "includedLayerIds": [
     ],
@@ -31,13 +22,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1167,
-    "width": 1010,
-    "x": 0,
-    "y": -243
+    "height": 542,
+    "width": 608,
+    "x": 71,
+    "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -53,43 +44,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "03485F16-3588-4744-91F9-71B1BFEC35F3"
-    },
-    {
       "class": "symbolInstance",
-      "id": "B0995798-87DB-4102-AA19-148708217CD3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A2723D18-1FAC-4A1F-8970-A28F6C55A221"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "590D4FB0-185A-4C7D-877C-3FC467F38BB0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "2EBC264A-F39E-4D73-9428-76D6CF8B6BC5"
-    },
-    {
-      "class": "text",
-      "id": "4A36DF04-12EE-4E9F-B071-6E66795B7C8A"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "04202DDE-EA10-4CB0-A189-BA0CEE0E76E0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FC16DAD0-539B-42C1-8B75-3792D7ED969E"
+      "id": "86F1B96A-4C35-4DCA-BE9A-A2C74685B93B"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "bar",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
