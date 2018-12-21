@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 10,
   "clippingMaskMode": 0,
-  "do_objectID": "98A7F702-4BDF-4674-98D3-AD07E1AD573F",
+  "do_objectID": "8F53A4D3-186E-49D5-B72F-035D66D1B86D",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 415,
-    "width": 305,
-    "x": 90,
-    "y": 76
+    "height": 150,
+    "width": 201,
+    "x": 100,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -34,10 +35,10 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      321
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -45,23 +46,19 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
-      "id": "18AAD8BD-AFBF-4FF8-883E-C98B850B53AE"
+      "id": "02999436-F6DC-4256-B2D7-8FE8E72C832D"
     },
     {
-      "class": "rectangle",
-      "id": "753E4DF7-21C8-4635-8A01-EC196A575F49"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CF4C958C-BE71-463A-815F-F1770B9E8F54"
+      "class": "text",
+      "id": "A205EDB7-58C7-4542-A61E-618EFB82EBED"
     }
   ],
-  "name": "foo",
-  "nameIsFixed": true,
+  "name": "Rectangle",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -74,6 +71,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "0A2318FA-143C-42EE-A6C9-2CFFEB659E09",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

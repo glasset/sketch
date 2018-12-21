@@ -9,7 +9,7 @@
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "98A7F702-4BDF-4674-98D3-AD07E1AD573F",
+  "do_objectID": "936F257E-1430-4982-B869-2AAEBC2F54FD",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,19 +22,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 415,
-    "width": 305,
-    "x": 90,
-    "y": 76
+    "height": 542,
+    "width": 608,
+    "x": 71,
+    "y": 0
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      321
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -45,22 +44,14 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "18AAD8BD-AFBF-4FF8-883E-C98B850B53AE"
-    },
-    {
-      "class": "rectangle",
-      "id": "753E4DF7-21C8-4635-8A01-EC196A575F49"
-    },
-    {
       "class": "symbolInstance",
-      "id": "CF4C958C-BE71-463A-815F-F1770B9E8F54"
+      "id": "86F1B96A-4C35-4DCA-BE9A-A2C74685B93B"
     }
   ],
-  "name": "foo",
+  "name": "bar",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,

@@ -31,12 +31,12 @@
         "location": 0
       }
     ],
-    "string": "t\n"
+    "string": "42"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D0AD5023-C006-421F-A7E1-E1617CBC6AA2",
+  "do_objectID": "261601EB-E40B-4C81-8901-1979378078D4",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 36,
-    "width": 7,
-    "x": 719,
-    "y": 294
+    "height": 18,
+    "width": 149,
+    "x": 100,
+    "y": 0
   },
-  "glyphBounds": "{{0, 4}, {6, 12}}",
+  "glyphBounds": "{{0, 3}, {20, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,19 +64,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "t",
+  "name": "42",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "contextSettings": {
-      "_class": "graphicsContextSettings",
-      "blendMode": 0,
-      "opacity": 0.4199999868869781
-    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -108,5 +103,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0
+  "textBehaviour": 1
 }

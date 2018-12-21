@@ -15,7 +15,7 @@
     ]
   },
   "colorSpace": 0,
-  "do_objectID": "d29c8ad0-055e-11e9-a959-21c6c799e00d",
+  "do_objectID": "90413140-0568-11e9-a959-21c6c799e00d",
   "foreignLayerStyles": [
   ],
   "foreignSymbols": [
@@ -623,7 +623,7 @@
           "startMarkerType": 0,
           "windingRule": 1
         },
-        "symbolID": "D5A290E2-54F4-4595-AEBE-E81B2C08A826",
+        "symbolID": "A5AF1C57-A145-4816-A854-3C9BEFA073AF",
         "verticalRulerData": {
           "_class": "rulerData",
           "base": 0,
@@ -648,6 +648,6 @@
   },
   "pages": [
     "Page 1",
-    "Symbols"
+    "Page 1"
   ]
 }

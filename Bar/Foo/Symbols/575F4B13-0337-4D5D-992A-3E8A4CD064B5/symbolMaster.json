@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,9 @@
     "red": 1
   },
   "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "98A7F702-4BDF-4674-98D3-AD07E1AD573F",
+  "do_objectID": "575F4B13-0337-4D5D-992A-3E8A4CD064B5",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,10 +23,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 415,
-    "width": 305,
-    "x": 90,
-    "y": 76
+    "height": 554,
+    "width": 598,
+    "x": 100,
+    "y": 0
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -34,10 +35,10 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      321
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -45,23 +46,23 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "18AAD8BD-AFBF-4FF8-883E-C98B850B53AE"
+      "class": "text",
+      "id": "261601EB-E40B-4C81-8901-1979378078D4"
+    },
+    {
+      "class": "text",
+      "id": "D0AD5023-C006-421F-A7E1-E1617CBC6AA2"
     },
     {
       "class": "rectangle",
-      "id": "753E4DF7-21C8-4635-8A01-EC196A575F49"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "CF4C958C-BE71-463A-815F-F1770B9E8F54"
+      "id": "F7144751-EDB9-437F-9FA5-870B8997AD8B"
     }
   ],
-  "name": "foo",
-  "nameIsFixed": true,
+  "name": "42",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -74,6 +75,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "E166EDBF-6008-4F44-B070-CF5F3638F606",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

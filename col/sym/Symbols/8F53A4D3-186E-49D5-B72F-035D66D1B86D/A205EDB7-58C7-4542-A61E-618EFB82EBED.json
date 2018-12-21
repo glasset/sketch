@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.6713169642857143,
-            "green": 0.4485511944923569,
-            "red": 0.2257854246989989
+            "blue": 0.1610065901360544,
+            "green": 0.08720078550564317,
+            "red": 0.01339498087523164
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -27,16 +27,16 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
+        "length": 4,
         "location": 0
       }
     ],
-    "string": "42"
+    "string": "foo\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "261601EB-E40B-4C81-8901-1979378078D4",
+  "do_objectID": "A205EDB7-58C7-4542-A61E-618EFB82EBED",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 18,
-    "width": 149,
-    "x": 228,
-    "y": 163
+    "height": 36,
+    "width": 28,
+    "x": 87,
+    "y": 57
   },
-  "glyphBounds": "{{0, 3}, {20, 12}}",
+  "glyphBounds": "{{0, 2}, {27, 14}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -64,9 +64,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "42",
+  "name": "foo",
   "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "resizingConstraint": 47,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -81,9 +81,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.6713169642857143,
-          "green": 0.4485511944923569,
-          "red": 0.2257854246989989
+          "blue": 0.1610065901360544,
+          "green": 0.08720078550564317,
+          "red": 0.01339498087523164
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -103,5 +103,5 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 1
+  "textBehaviour": 0
 }
