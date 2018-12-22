@@ -1,5 +1,5 @@
 #!/bin/bash
 SKETCH_TOOL="/Applications/Sketch.app/Contents/Resources/sketchtool/bin/sketchtool"
-find . -name '*.sketch' -type f -execdir $SKETCH_TOOL export artboards {} --formats=jpg \;
+find . -name '*.sketch' -type f -execdir $SKETCH_TOOL export preview {} --formats=jpg \;
 
 
