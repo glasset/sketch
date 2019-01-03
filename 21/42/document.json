@@ -32,7 +32,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 3,
+        "changeIdentifier": 64,
         "clippingMaskMode": 0,
         "do_objectID": "81522A27-F404-4E8D-BA1C-8223C9F05FCE",
         "exportOptions": {
@@ -302,7 +302,7 @@
                     "_class": "color",
                     "alpha": 1,
                     "blue": 0.6776721948841089,
-                    "green": 0.8466162470925547,
+                    "green": 0.757583879214382,
                     "red": 0.8554953231292517
                   },
                   "fillType": 0,
@@ -352,7 +352,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 3,
+        "changeIdentifier": 64,
         "clippingMaskMode": 0,
         "do_objectID": "81522A27-F404-4E8D-BA1C-8223C9F05FCE",
         "exportOptions": {
@@ -622,7 +622,7 @@
                     "_class": "color",
                     "alpha": 1,
                     "blue": 0.6776721948841089,
-                    "green": 0.8466162470925547,
+                    "green": 0.757583879214382,
                     "red": 0.8554953231292517
                   },
                   "fillType": 0,
